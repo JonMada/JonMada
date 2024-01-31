@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, welcome to my GitHub profile!<br><br>My name is Jon, and at present, I'm undergoing training in programming applied to Full Stack Development through the DevCamp at Bottega University. My objective is to acquire new skills and competencies that will empower me to create and manage innovative, high-quality web projects. I am passionate about continuous learning and applying technology to social knowledge.
+Hello, welcome to my GitHub profile!<br><br>My name is Jon, and at present, I'm undergoing training in programming applied to Full Stack Development through DevCamp at Bottega University. My objective is to acquire new skills and competencies that will empower me to create and manage innovative, high-quality web projects. I am passionate about continuous learning and applying technology to social knowledge.
 
 
 ## 🌐 Socials:
